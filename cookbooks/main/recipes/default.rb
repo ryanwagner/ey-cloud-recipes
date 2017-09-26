@@ -198,3 +198,6 @@
 
 #uncomment to include the classiclink recipe
 #include_recipe "classiclink"
+
+#rubygems update
+include_recipe "rubygems-update"
